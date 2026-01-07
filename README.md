@@ -15,7 +15,7 @@ Power BI dashboard for loan application analysis, credit risk assessment, and fr
 ![Credit Risk Analysis](Assets/Screenshots/Credit_Risk.png)
 
 ### Fraud Detection
-![Fraud Detection](Assets/Screenshots/Froud_Dtection.png)
+![Fraud Detection](Assets/Screenshots/Froud_Detection.png)
 
 ### Customer Overview
 ![Customer Overview](Assets/Screenshots/Customer_Overview.png)
